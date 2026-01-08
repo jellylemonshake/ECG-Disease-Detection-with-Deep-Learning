@@ -1,4 +1,8 @@
 # ECG Disease Detection from 12-Lead ECG (PTB-XL, PhysioNet)
+<img width="2104" height="1228" alt="image" src="https://github.com/user-attachments/assets/8e11f5e2-bb0b-468e-a35f-639152d4bd45" />
+<img width="2103" height="1355" alt="image" src="https://github.com/user-attachments/assets/52746e46-30d3-4316-a377-62fb88b77da9" />
+
+
 
 End-to-end machine learning pipeline for automatic diagnosis of cardiac diseases and arrhythmias from 12-lead ECGs using the **PTB-XL** dataset (PhysioNet). The project trains deep neural networks on 10-second ECG recordings to predict multiple clinically relevant diagnoses and exposes them via a simple web app for ECG file upload and analysis.[1][2]
 
